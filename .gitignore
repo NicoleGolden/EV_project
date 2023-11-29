@@ -1,0 +1,36 @@
+*.DS_store
+*.Rhistory
+fig2.png
+01-CompleteCode.R
+
+*.dat
+*.apk
+*.dex
+*.log
+*.nc
+
+# History files
+.Rapp.history
+OC_covid_project.Rproj
+*.nc
+*.dat
+*.apk
+*.dex
+*.log
+*.Rhistory
+
+
+# Session Data files
+.RData
+
+
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+
+# R Environment Variables
+.Renviron
